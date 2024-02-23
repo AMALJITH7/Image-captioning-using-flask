@@ -1,0 +1,20 @@
+.style1{
+    margin-top: 16rem;
+    margin-left: 37rem;
+    font-size: 16pt;
+    font-weight: unset;
+    font-style: oblique;
+    padding: 9px;
+}
+input{
+    margin-left: 42rem;
+    border: inset;
+    background-color: white;
+}
+body {
+    background: url("captioning-banner.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    }
